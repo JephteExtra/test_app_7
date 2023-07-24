@@ -1,3 +1,3 @@
 # README
 
-1. Complete Ruby on Rails Developper.
+1. First test repo on the Complete Ruby on Rails Developper course by Mashur Hossain.
